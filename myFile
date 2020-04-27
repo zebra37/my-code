@@ -1,0 +1,1621 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Создание, разработка, продвижение сайтов в Иваново</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
+          type="text/css">
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/freelancer.min.css" rel="stylesheet">
+
+    <link href="css/lightbox.css" rel="stylesheet"/>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130707372-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130707372-1');
+</script>
+
+
+</head>
+
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/lightbox-2.6.min.js"></script>
+
+<body id="page-top">
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">#zebra_forever</a>
+        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button"
+                data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
+                aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item mx-0 mx-lg-1">
+                    <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Портфолио</a>
+                </li>
+                <li class="nav-item mx-0 mx-lg-1">
+                    <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
+                       href="#sertification">Сертификаты</a>
+                </li>
+                <li class="nav-item mx-0 mx-lg-1">
+                    <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">Обо мне</a>
+                </li>
+                <li class="nav-item mx-0 mx-lg-1">
+                    <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Контакты</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Header -->
+<header class="masthead bg-primary text-white text-center">
+    <div class="container">
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+        <h1 class="text-uppercase mb-0">Вячеслав Артемьев</h1>
+        <hr class="star-light">
+        <h2 class="font-weight-light mb-0">Веб-разработчик, специалист по продвижению сайтов</h2>
+    </div>
+</header>
+
+<!-- Portfolio Grid Section -->
+<section class="portfolio" id="portfolio">
+    <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Портфолио</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/839-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/fsp-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/estetik-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-4">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/luxe-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-5">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/eds-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-6">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/elservice-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-7">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/luxlashes-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-8">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/mobilmax-apple-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-9">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/education-hookah-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-10">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/cocos-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-11">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/mobil-max-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-12">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/georider-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-13">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/pattaya-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-14">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/hookah-shop-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-15">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/crossfit-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-16">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/sea-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+             <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-17">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/mobilmax37-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-18">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/seo-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-19">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/robot37-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-20">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/sem-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-21">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/longcat-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-22">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/mobilmax37-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-23">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/paintball-school-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-24">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/lux-lashes-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+             <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-25">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/nauchnaya-biblioteka-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-26">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/nauchnaya-biblioteka-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-27">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/1-b-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-28">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/mnogovsego-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+             <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-29">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/naildi-logo.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+             <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-30">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/video-arsenal-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-31">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/ultimatum-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-32">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/pe4at.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+             
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-33">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/morsink-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-34">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/shvei-service-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+            
+             <div class="col-md-4 col-lg-3">
+                <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-35">
+                    <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                            <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="img/portfolio/ivadvokat-logo.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                </a>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+<!-- Sertification Grid Section -->
+<section class="portfolio" id="sertification">
+    <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Мои сертификаты Yandex</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/YandexDirect.jpg" data-lightbox="image-group" title="Специалист Яндекс.Директ"><img
+                        style="border: 1px solid gray;margin-bottom: 33px;" width="100%" src="img/sertificati/YandexDirect-thmb.jpg"/></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/YandexMetrica.jpg" data-lightbox="image-group"
+                   title="Специалист Яндекс.Метркиа"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                          src="img/sertificati/YandexMetrica-thmb.jpg"/></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/YandexRSYA.jpg" data-lightbox="image-group"
+                   title="Специалист Яндекс.РСЯ"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                          src="img/sertificati/YandexRSYA-thmb.jpg"/></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="portfolio" id="sertification">
+    <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Мои сертификаты Google</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/MediinayaReklamaGoogle.jpg" data-lightbox="image-group"
+                   title="Специалист Медийной рекламы Google"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                                   src="img/sertificati/MediinayaReklamaGoogle-thmb.jpg"/></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/MediinayaReklamaGoogle2.jpg" data-lightbox="image-group"
+                   title="Специалист Медийной рекламы Google"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                                   src="img/sertificati/MediinayaReklamaGoogle2-thmb.jpg"/></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/ReklamaVGooglePokupkah.jpg" data-lightbox="image-group"
+                   title="Специалист Медийной рекламы Google"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                                   src="img/sertificati/ReklamaVGooglePokupkah-thmb.jpg" /></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/MobilnieSitiGoogle.jpg" data-lightbox="image-group"
+                   title="Специалист по мобильным сайтам"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                                   src="img/sertificati/MobilnieSitiGoogle-thmb.jpg" /></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/ProdagaCifrovoiReklami.jpg" data-lightbox="image-group"
+                   title="Специалист по продаже цифровой рекламы"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                               src="img/sertificati/ProdagaCifrovoiReklami-thmb.jpg" /></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/VideoReklamaGoogle.jpg" data-lightbox="image-group"
+                   title="Видеореклама в Google Рекламе"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                                       src="img/sertificati/VideoReklamaGoogle-thmb.jpg" /></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/PoiskovayaReklamaGoogle.jpg" data-lightbox="image-group"
+                   title="Поисковая Реклама в Google Рекламе"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                              src="img/sertificati/PoiskovayaReklamaGoogle-thmb.jpg" /></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/OsnoviGoogleReklami.jpg" data-lightbox="image-group"
+                   title="Основы в Google Рекламе"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                              src="img/sertificati/OsnoviGoogleReklami-thmb.jpg" /></a>
+            </div>
+
+            <div class="col-md-4 col-lg-4">
+                <a href="img/sertificati/Google-Analitics.jpg" data-lightbox="image-group"
+                   title="Аналитика Google"><img style="border: 1px solid gray;margin-bottom: 33px;" width="100%"
+                                                        src="img/sertificati/Google-Analitics-thmb.jpg" /></a>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- About Section -->
+<section class="bg-primary text-white mb-0" id="about">
+    <div class="container">
+        <h2 class="text-center text-uppercase text-white">Обо мне</h2>
+        <hr class="star-light mb-5">
+        <div class="row">
+            <div class="col-lg-4 ml-auto">
+                <p class="lead">
+                <h4>Мои услуги:</h4>
+                <ul style="font-size:20px;">
+                    <li>Разработка сайтов</li>
+                    <li>Аудит сайта и рекламной компании</li>
+                    <li>Создание рекламной кампании Yandex</li>
+                    <li>Создание рекламной кампании Google</li>
+                    <li>Seo оптимизация и продвижение сайтов</li>
+                    <li>Продвижение Instagram</li>
+                    <li>Продвижение в социальный сетях</li>
+                </ul>
+                </p>
+            </div>
+            <div class="col-lg-4 mr-auto">
+                <p class="lead">
+                <h4>Партнеры:</h4>
+                <ul style="font-size:20px;">
+                    <li>eLama</li>
+                    <li>Google</li>
+                    <li>Yandex</li>
+                    <li>Webhost1</li>
+                </ul>
+                </p>
+            </div>
+            <div class="col-lg-4 mr-auto">
+                <p class="lead">
+                <h4>Вконтакте:</h4>
+                <script type="text/javascript" src="https://vk.com/js/api/openapi.js?159"></script>
+
+                <!-- VK Widget -->
+                <div id="vk_groups"></div>
+                <script type="text/javascript">
+                    VK.Widgets.Group("vk_groups", {mode: 4, width: "350", height: "300"}, 164611895);
+                </script>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+    <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Напиишите мне</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
+                <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                <form name="sentMessage" id="contactForm" novalidate="novalidate">
+                    <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                            <label>Name</label>
+                            <input class="form-control" id="name" type="text" placeholder="Ваше имя" required="required"
+                                   data-validation-required-message="Ваше имя">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                            <label>Email Address</label>
+                            <input class="form-control" id="email" type="email" placeholder="Ваша почта"
+                                   required="required" data-validation-required-message="Пожалуйста введите вашу почту">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                            <label>Phone Number</label>
+                            <input class="form-control" id="phone" type="tel" placeholder="Ваш телефон"
+                                   required="required" data-validation-required-message="Введите ваш номер телефона">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                            <label>Message</label>
+                            <textarea class="form-control" id="message" rows="5" placeholder="Ваше сообщение"
+                                      required="required"
+                                      data-validation-required-message="Пожалуйста введите ваше сообщение"></textarea>
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <br>
+                    <div id="success"></div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">Отправить</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-5 mb-lg-0">
+                <h4 class="text-uppercase mb-4">E-mail</h4>
+                <p class="lead mb-0">info@vyacheslav-artemiev.ru
+            </div>
+            <div class="col-md-4 mb-5 mb-lg-0">
+                <h4 class="text-uppercase mb-4">Социальные сети</h4>
+                <ul class="list-inline mb-0">
+                    <li class="list-inline-item">
+                        <a target="_blank" class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                            <i class="fab fa-fw fa-vk"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                            <i class="fab fa-fw fa-facebook"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                            <i class="fab fa-fw fa-twitter"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                            <i class="fab fa-fw fa-instagram"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                            <i class="fab fa-fw fa-tumblr"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h4 class="text-uppercase mb-4">Обо мне</h4>
+                <p class="lead mb-0">Делаю и продвигаю сайты <br/> с 2012 года</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="copyright py-4 text-center text-white">
+    <div class="container">
+        <small>Copyright &copy; vyacheslav-artemiev.ru 2018</small>
+    </div>
+</div>
+
+<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+<div class="scroll-to-top d-lg-none position-fixed ">
+    <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+    </a>
+</div>
+
+<!-- Portfolio Modals -->
+
+<!-- Portfolio Modal ПК 839 -->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Пейнтбольный клуб 839</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/839-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        Проект "Пейнтбольный клуб 839" в Иваново <br/>
+                        <a target="_blank" href="http://paintball-ivanovo.ru">Пейнтбольный клуб 839</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal FSP-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Федерация пейнтбола Иваново</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/fsp-site.jpeg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        Проект Федерация пейнтбола Иваново <br/>
+                        <a target="_blank" href="http://fp.paintball-ivanovo.ru">Федерация пейнтбола Иваново</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Estetik-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-3">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Натяжные потолки Estetik</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/estetik-site.jpeg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        Проект Натяжные потолки Estetik <br/>
+                        <a target="_blank" href="http://estetik-ivanovo.ru">Estetik - натяжные потолки</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Luxe-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-4">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Натяжные потолки Luxe</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/luxe-site.jpeg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        Проект Натяжные потолки Luxe <br/>
+                        <a target="_blank" href="http://luxepotolok.ru/">Luxe - натяжные потолки</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Edskii-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-5">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Дизайн-студия Edskii</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/edskii-site.jpeg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        СФЕРЫ ДИЗАЙНА<br/>
+                        Графический дизайн<br/>
+                        3D моделирование<br/>
+                        Web дизайн<br/>
+                        3D печать<br/>
+                        <a target="_blank" href="http://edskii.ru">Дизайн-студия Edskii</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Elservice-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-6">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Электромонтажные работы от проекта до сдачи объекта</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/elservice-site.jpeg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://elservice37.ru/">Electroservice Иваново</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal LuxLashes-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-7">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Студия Lux-lashes - студия наращивания ресниц</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/luxlashes-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://lux-lashes.ru/">Студия Lux-lashes</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal MobilMax-Apple-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-8">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Ремонт Apple Иваново - кампания MobilMax</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/mobilmax-apple-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://mobilmax37.ru/remont">MobilMax Apple</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Education-Hookah-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-9">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Энциклопедия кальянов</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/education-hookah-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://education-hookah.ru">Энциклопедия кальянов</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Education-Hookah-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-10">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Кальянная Cocos</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/cocos-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://cocoshookahbar.ru/">Кальянная Cocos</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Mobil-max-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-11">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">MobilMax продажа цифровой техники</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/mobil-max-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Georider-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-12">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Georider Icons - Частная коллекция Икон</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/georider-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://georidericons.com">Georider Icons</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Georider-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-13">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Pattaya - спа, массаж салон Иваново</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/pattaya-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://pattaya-massage.ru">Pattaya - спа, массаж салон Иваново</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal HookahShop-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-14">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Hookah Shop</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/hookah-shop-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://hookah-ivanovo.ru/">Hookah Shop</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Crossfit-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-15">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Crossfit Sport</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/crossfit-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://crossfit-sport.ru/">Crossfit Sport</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Sea-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-16">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">SEA Иваново, контекстная реклама Иваново</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/sea-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://sea-ivanovo.ru/">Sea Ivanovo</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal MobilMax37-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-17">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Сервис по ремонту телефонов MobilMax</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/mobilmax37-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://mobilmax37.ru">MobilMax</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal SEO-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-18">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">SEO, продвижение сайтов Иваново</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/seo-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://seo-ivanovo.ru">SEO Ivanovo</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Robot37-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-19">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Сервисный центр по ремонту электо и бытовой технике</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/robot37-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://robot37.ru/">Robot 37</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal SEM-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-20">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">SEM, продвижение сайтов Иваново</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/sem-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://sem-ivanovo.ru">SEM Ivanovo</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal SEM-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-21">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Длиннокот</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/longcat-site.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://dlinnokot.ru/">Длиннокот</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Mobil37-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-22">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">MobilMax магазин и сервисный центр мобильных устройств</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/mobilmax37.png" alt="Создание, разработка, продвижение сайтов в Иваново">
+                    <p class="mb-5">
+                        <a target="_blank" href="http://mobilmax37.ru">MobilMax37</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Mobil37-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-23">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Ивановская школа пейнтбола</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/paintball-school-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Luxe-Lashes-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-24">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Luxe-Lashes</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/luxe-lashes-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Luxe-Lashes-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-25">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Научная библиотека (локальный каталог)</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/nauchnaya-biblioteka-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Luxe-Lashes-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-26">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Научная библиотека (локальный каталог)</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/nauchnaya-biblioteka2-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal 1 B class-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-27">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">1 Б класс 22 школа</h2>
+                    <hr class="star-dark mb-5">
+                    <img class="img-fluid mb-5" src="img/portfolio/1-b-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново">
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Mnogovsego-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-28">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Многовсего</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/mnogovsego-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Naildi-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-29">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Ногтевая мастерская</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/naildi-site.jpg" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Naildi-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-30">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Системы видео наблюдения</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/video-arsenal-site.png" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Ultimatum-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-31">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Пейнтбольная команда Ультиматум</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/ultimatum-site.png" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                     <p class="mb-5">
+                        <a target="_blank" href="http://ultimatum-paintball.ru">Сайт</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Pe4at-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-32">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Ивановские печати</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/pe4at-site.png" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Morsink-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-33">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Иконы</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/morsink-site.png" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                     <p class="mb-5">
+                        <a target="_blank" href="https://www.morsink.com/home">Morsink</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Morsink-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-34">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Спецодежда в Иваново — пошив и продажа, рабочая одежда оптом и в розницу</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/shvei-service.png" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                     <p class="mb-5">
+                        <a target="_blank" href="https://www.shvei-servis.ru">Швей-Сервис</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Portfolio Modal Advokat-->
+<div class="portfolio-modal mfp-hide" id="portfolio-modal-35">
+    <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-secondary text-uppercase mb-0">Адвокат Смирнов В.М.</h2>
+                    <hr class="star-dark mb-5"></hr>
+                    <img class="img-fluid mb-5" src="img/portfolio/ivadvokat-site.png" alt="Создание, разработка, продвижение сайтов в Иваново"/>
+                     <p class="mb-5">
+                        <a target="_blank" href="http://iv-advokat.ru/">Адвокат Смирнов В.М.</a>
+                    </p>
+                    <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                        <i class="fa fa-close"></i>
+                        Закрыть</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- RedConnect -->
+<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
+src="https://web.redhelper.ru/service/main.js?c=vyacheslavartemiev"></script>
+<div style="display: none"><a class="rc-copyright" 
+href="http://redconnect.ru">Сервис звонка с сайта RedConnect</a></div>
+<!--/RedConnect -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter41744279 = new Ya.Metrika({
+                    id:41744279,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true,
+                    ut:"noindex",
+                    ecommerce:"dataLayer"
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<!-- Contact Form JavaScript -->
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/contact_me.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/freelancer.min.js"></script>
+
+</body>
+
+</html>
